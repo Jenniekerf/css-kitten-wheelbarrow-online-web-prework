@@ -1,4 +1,7 @@
 /* Select the image with a class of kitty-1 */
+<a href=>
+  <img class="kitty-1"/>
+</a>
 
 /*__write_selector_here__*/ {
   position: absolute;
